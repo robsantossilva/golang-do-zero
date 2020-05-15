@@ -48,3 +48,6 @@
 - Baixa curva de aprendizagem
 
 [Mais detalhes sobre GO Lang](https://golang.org/doc/ "Mais detalhes sobre GO Lang")
+
+https://golang.org/ref/spec#Constant_declarations
+https://gobyexample.com/
