@@ -49,5 +49,6 @@
 
 [Mais detalhes sobre GO Lang](https://golang.org/doc/ "Mais detalhes sobre GO Lang")
 
-https://golang.org/ref/spec#Constant_declarations
+https://golang.org/ref/spec
 https://gobyexample.com/
+https://golang.org/doc/effective_go.html
